@@ -6,5 +6,6 @@ void quickSort(int arr[], int left, int right) {
             quickSort(arr, index, right);
 }
 
+// ini yang bener tot
 
 method();
