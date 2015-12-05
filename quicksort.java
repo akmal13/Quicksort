@@ -5,3 +5,6 @@ void quickSort(int arr[], int left, int right) {
       if (index < right)
             quickSort(arr, index, right);
 }
+
+
+method();
